@@ -3,3 +3,4 @@ Esse é meu primeiro projeto usando Git
 gerando mudanças 
 ## Fabia Renzi voce vai conseguir
 comando git pull
+comando got fetch
